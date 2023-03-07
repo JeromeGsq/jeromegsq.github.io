@@ -45568,7 +45568,7 @@ r[1]=r[1]+s[1]
 r[2]=r[2]+s[2]
 r[3]=r[3]+s[3]}}
 A.w2.prototype={
-R(a){return new A.nR(B.zL,"Flutter Demo",A.a1B(null,B.ef,null),!1,null)}}
+R(a){return new A.nR(B.zL,"JeromGsq - Portfolio",A.a1B(null,B.ef,null),!1,null)}}
 A.o1.prototype={
 av(){return new A.BE(B.m)}}
 A.BE.prototype={
