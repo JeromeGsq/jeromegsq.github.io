@@ -51065,7 +51065,7 @@ if(q==null)q=o
 else{p=q.r
 p=A.cf(o,o,o,o,o,o,o,o,q.d,o,o,p,o,o,B.aA,o,o,!0,o,o,o,o,o,o,o,o).tX(n,10)
 q=p}p=t.p
-return A.tj(B.b1,A.a([A.Ur(A.a([new A.pU(2,A.a51(A.a([new A.er(B.w1,s,o),B.wl,r,A.fc("Ghesqui\xe8re".toUpperCase(),q,o,o),B.bb,new A.er(B.vX,A.a51(A.a([A.fc("Je suis d\xe9veloppeur informatique passionn\xe9 par les technologies cross-platformes, sp\xe9cialis\xe9 dans la cr\xe9ation d'applications mobiles grand public et B2B.",A.aU(a).p3.w,B.cj,o),B.bb,A.fc("J'aime travailler main dans la main avec les \xe9quipes produit et design pour cr\xe9er des applications mobiles Flutter de qualit\xe9.",A.aU(a).p3.w,B.cj,o),B.wm,A.fc("Je suis aussi exp\xe9riment\xe9 en d\xe9veloppement Unity, avec une expertise dans la cr\xe9ation d'exp\xe9riences en r\xe9alit\xe9 virtuelle et r\xe9alit\xe9 augment\xe9e.",A.aU(a).p3.y,B.cj,o)],p),B.ct,B.cL),o)],p),B.ct,B.cL),o),B.wc],p),B.A9,B.bT)],p),B.ci)}}
+return A.tj(B.b1,A.a([A.Ur(A.a([new A.pU(2,A.a51(A.a([new A.er(B.w1,s,o),B.wl,r,A.fc("Ghesqui\xe8re".toUpperCase(),q,o,o),B.bb,new A.er(B.vX,A.a51(A.a([A.fc("Je suis d\xe9veloppeur informatique passionn\xe9 par les technologies cross-platformes, sp\xe9cialis\xe9 dans la cr\xe9ation d'applications mobiles grand public et B2B.",A.aU(a).p3.w,B.cj,o),B.bb,A.fc("J'aime travailler main dans la main avec les \xe9quipes produit et design pour cr\xe9er des applications mobiles Flutter de qualit\xe9.",A.aU(a).p3.w,B.cj,o),B.wm,A.fc("Je suis aussi exp\xe9riment\xe9 en d\xe9veloppement Unity, avec une expertise dans la cr\xe9ation d'exp\xe9riences en r\xe9alit\xe9 virtuelle et r\xe9alit\xe9 augment\xe9e.",A.aU(a).p3.w,B.cj,o)],p),B.ct,B.cL),o)],p),B.ct,B.cL),o),B.wc],p),B.A9,B.bT)],p),B.ci)}}
 A.a3s.prototype={
 $1(a){return new A.iw()},
 $S:357}
