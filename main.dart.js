@@ -66067,7 +66067,7 @@ A.C9.prototype={
 aP(){var s,r
 this.bc()
 s=new A.yD(B.n,B.n,B.ed,B.n,B.lV,!1,!1,!1,1,1,null,B.A,0,!1)
-r=new A.L3("https://cdn.discordapp.com/attachments/427769325114621969/1083508002771980308/Mon_film-1080p.webm",s,$.bT())
+r=new A.L3("https://cdn.designerapp.osi.office.net/email/designer-teaser-video-50-mbps-fab6496a-8250-4a45-adf9-e265e6ae0ed8.mp4",s,$.bT())
 r.vk(s)
 r.cJ(0).b9(new A.TM(this),t.P)
 this.d=r},
@@ -66091,7 +66091,7 @@ $0(){var s,r=this.a
 r.e=!0
 s=r.d
 s===$&&A.d()
-s.ia(100)
+s.ia(0)
 r.d.i9(!0)
 r.d.hg(0)},
 $S:0}
