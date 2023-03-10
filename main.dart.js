@@ -64657,7 +64657,7 @@ o=t.U
 n=t.V
 p.CW=new A.bs(new A.au($.a7,o),n)
 m=A.bt("dataSourceDescription")
-switch(1){case 1:m.b=new A.VI(B.AP,p.w,null,B.qX,null,null)
+switch(0){case 0:m.b=new A.VI(B.AP,null,null,B.qX,p.w,null)
 break}s=3
 return A.a4(A.jv().dR(0,m.aL()),$async$cJ)
 case 3:l=c
@@ -66067,7 +66067,7 @@ A.C9.prototype={
 aP(){var s,r
 this.bc()
 s=new A.yD(B.n,B.n,B.ed,B.n,B.lV,!1,!1,!1,1,1,null,B.A,0,!1)
-r=new A.L3("https://cdn.designerapp.osi.office.net/email/designer-teaser-video-50-mbps-fab6496a-8250-4a45-adf9-e265e6ae0ed8.mp4",s,$.bT())
+r=new A.L3("https://jeromegsq.github.io/#/assets/assets/videos/video.webm",s,$.bT())
 r.vk(s)
 r.cJ(0).b9(new A.TM(this),t.P)
 this.d=r},
@@ -68846,7 +68846,7 @@ B.d5=new A.a2(2164260863)
 B.AN=new A.fD(B.c9,null,null,B.c9,B.d5,B.c9,B.d5,B.c9,B.d5,B.c9,B.d5,0)
 B.bD=new A.DZ(B.kV,null,null,null,null,null,null)
 B.AO=new A.E3(1,"latency")
-B.AP=new A.E4(1,"network")
+B.AP=new A.E4(0,"asset")
 B.AQ=new A.uo(null,null,null,null,null,null,null,null,null,null,null)
 B.lo=new A.kY(0,"uninitialized")
 B.AR=new A.kY(1,"initializingServices")
