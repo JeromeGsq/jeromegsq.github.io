@@ -66067,7 +66067,7 @@ A.C9.prototype={
 aP(){var s,r
 this.bc()
 s=new A.yD(B.n,B.n,B.ed,B.n,B.lV,!1,!1,!1,1,1,null,B.A,0,!1)
-r=new A.L3("/assets/assets/videos/video.webm",s,$.bT())
+r=new A.L3("assets/videos/video.webm",s,$.bT())
 r.vk(s)
 r.cJ(0).b9(new A.TM(this),t.P)
 this.d=r},
