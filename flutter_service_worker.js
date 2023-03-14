@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "980547175e325fe622a3362b84d55b6a",
-"index.html": "19f30af35a2480ad01e4173613212242",
-"/": "19f30af35a2480ad01e4173613212242",
-"main.dart.js": "fb7c1d5b8c08f35ef790b7ee59b40e21",
+"index.html": "616ac466c64fcdd37d2274d67fc16d3e",
+"/": "616ac466c64fcdd37d2274d67fc16d3e",
+"main.dart.js": "b4e79e4de011a8bf2b11b5dd4dc1f6f6",
 "flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -21,7 +21,7 @@ const RESOURCES = {
 "assets/fonts/Futura-Book-Regular.otf": "e1475fa9d0d3433318bc200cc45e002e",
 "assets/fonts/Futura-Book-Bold.ttf": "d3d606b87ad7d8138c4cc017fc8d9e1e",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
-"assets/assets/images/avatar.jpg": "0acea1ab9da505fb618598f2d99e33d4",
+"assets/assets/images/avatar.jpg": "2ddfb7c9c60846da836f96b0c89f5e03",
 "assets/assets/videos/video.webm": "b3671ccc2ab179f8c72c2a7180c06ad6",
 "assets/assets/icons/twitter-round-icon.svg": "49d5835b70df737784967ac3baeb9a58",
 "assets/assets/icons/linkedin-round-icon.svg": "4e5b77579246865acfe515d8215ddbb2",
