@@ -1,6 +1,6 @@
 {
-    "name": "website",
-    "short_name": "website",
+    "name": "website_sources",
+    "short_name": "website_sources",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
