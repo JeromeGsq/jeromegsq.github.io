@@ -34,13 +34,15 @@
 
   <script>
     // The value below is injected by flutter build, do not touch.
-    var serviceWorkerVersion = "2721007945";
+    var serviceWorkerVersion = "3123260409";
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
 </head>
 <body>
   <script>
+    let useHtml = true;
+
     window.addEventListener('load', function(ev) {
       // Download main.dart.js
       _flutter.loader.loadEntrypoint({
@@ -48,10 +50,22 @@
           serviceWorkerVersion: serviceWorkerVersion,
         },
         onEntrypointLoaded: function(engineInitializer) {
+          if (navigator.userAgent.includes("Android") || navigator.userAgent.includes("iPhone") || navigator.userAgent.includes("iPad")) {
+            useHtml = false;
+            console.log("Detected mobile device, using canvaskit renderer");
+          }else{
+            console.log("Detected desktop device, using html renderer");
+          }
+
+          let config = {
+            renderer: useHtml ? "html" : "canvaskit",
+          };
+
+          console.log(navigator.userAgent);
           engineInitializer.initializeEngine().then(function(appRunner) {
             appRunner.runApp();
           });
-        }
+        } 
       });
     });
   </script>
